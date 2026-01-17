@@ -23,9 +23,9 @@ from nenen88 import pull, say, download, clone, tempe
 REPO = {
     'A1111': 'https://github.com/gutris1/A1111',
     'Forge': 'https://github.com/lllyasviel/stable-diffusion-webui-forge Forge',
-    'ReForge': '-b main-old https://github.com/Panchovix/stable-diffusion-webui-reForge ReForge',
+    'ReForge': 'https://github.com/Panchovix/stable-diffusion-webui-reForge ReForge',
     'Forge-Classic': 'https://github.com/Haoming02/sd-webui-forge-classic Forge-Classic',
-    'ComfyUI': 'https://github.com/comfyanonymous/ComfyUI',
+    'ComfyUI': 'https://github.com/Comfy-Org/ComfyUI',
     'SwarmUI': 'https://github.com/mcmonkeyprojects/SwarmUI'
 }
 
