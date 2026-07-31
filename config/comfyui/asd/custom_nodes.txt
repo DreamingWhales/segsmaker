@@ -12,3 +12,14 @@ https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes
 https://github.com/FizzleDorf/ComfyUI_FizzNodes
 https://github.com/WASasquatch/was-node-suite-comfyui
 https://github.com/Comfy-Org/comfy-aimdo
+https://github.com/rgthree/rgthree-comfy
+https://github.com/alexopus/ComfyUI-Image-Saver
+https://github.com/kijai/ComfyUI-KJNodes
+https://github.com/ltdrdata/ComfyUI-Impact-Pack
+https://github.com/ltdrdata/ComfyUI-Impact-Subpack
+https://github.com/ltdrdata/ComfyUI-Inspire-Pack
+https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
+https://github.com/civitai/civitai-comfy-nodes
+https://github.com/TheLustriVA/ComfyUI-Image-Size-Tools
+https://github.com/yolain/ComfyUI-Easy-Use
+https://github.com/DreamingWhales/ComfyUI-TiledDiffusion-Anima
